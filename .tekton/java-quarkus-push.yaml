@@ -14,7 +14,7 @@ metadata:
     build.appstudio.openshift.io/component: java-quarkus
     pipelines.appstudio.openshift.io/type: build
   name: java-quarkus-on-push
-  namespace: jkopriva-appstudio
+  namespace: rhn-support-djodha
 spec:
   params:
   - name: git-url
